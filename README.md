@@ -1,4 +1,8 @@
 Simple to do app for demo purposes.
 
+TODO APPLICATION IMPLEMENTING
 
-Full REAdme  coming soon !
+REACT HOOKS
+EXPRESS
+AXIOS
+NODE
